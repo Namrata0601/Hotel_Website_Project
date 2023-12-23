@@ -1,1 +1,1 @@
-# Hotel_Website_Project
+Our Hotel Website Project is a dynamic and responsive web application designed to provide an immersive and user-friendly experience for hotel guests. Developed using a robust tech stack including HTML, CSS, JavaScript, Bootstrap, Django, and Python, this project seamlessly integrates front-end and back-end technologies to deliver a polished and feature-rich website.
